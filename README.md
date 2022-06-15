@@ -16,3 +16,11 @@ All codes have been put into a jupyter notebook for easy reading and executing. 
 
 ## Citing Recipe2vec
 If you find Recipe2vec useful, please cite our paper.
+```
+@inproceedings{Recipe2Vec,
+  author = {Tian, Yijun and Zhang, Chuxu and Guo, Zhichun and Ma, Yihong and Metoyer, Ronald and Chawla, Nitesh V.},
+  title = {Recipe2Vec: Multi-modal Recipe Representation Learning with Graph Neural Networks},
+  booktitle = {IJCAI},
+  year = {2022}
+}
+```
