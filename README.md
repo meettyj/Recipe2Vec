@@ -1,5 +1,5 @@
-# Multi-modal Recipe Representation Learning with Graph Neural Networks
-This is the official repo for the paper "Multi-modal Recipe Representation Learning with Graph Neural Networks", accepted at IJCAI 2022.
+# Recipe2Vec
+This is the official repo for the IJCAI'22 paper "[Recipe2Vec: Multi-modal Recipe Representation Learning with Graph Neural Networks](https://arxiv.org/pdf/2205.12396.pdf)".
 
 ## Data
 Please first [download the data](https://drive.google.com/drive/folders/1n-ednzpdi_xgPDwXW-xmcChBotOqpTbb?usp=sharing), then put them under the folder 'data/'.
@@ -14,8 +14,8 @@ ingreID2nodeID_dict, nodeID2ingreID_dict = torch.load('../data/ingre2nodeID_and_
 All codes have been put into a jupyter notebook for easy reading and executing. We further log the results in the notebook for demonstration purposes. 
 
 
-## Citing Recipe2vec
-If you find Recipe2vec useful, please cite our paper.
+## Citing Recipe2Vec
+If you find Recipe2Vec useful, please cite our paper.
 ```
 @inproceedings{Recipe2Vec,
   author = {Tian, Yijun and Zhang, Chuxu and Guo, Zhichun and Ma, Yihong and Metoyer, Ronald and Chawla, Nitesh V.},
